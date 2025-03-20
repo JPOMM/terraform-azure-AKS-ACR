@@ -1,1 +1,8 @@
 # terraform-azure-AKS-ACR
+
+azurerm_kubernetes_cluster
+azurerm_virtual_network
+azurerm_subnet
+azurerm_network_security_group
+azurerm_role_assignment
+azurerm_virtual_network_gateway
